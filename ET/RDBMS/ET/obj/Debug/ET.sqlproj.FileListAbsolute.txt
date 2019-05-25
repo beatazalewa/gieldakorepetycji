@@ -1,0 +1,11 @@
+E:\ET\RDBMS\ET\bin\Debug\ET.dacpac
+E:\ET\RDBMS\ET\bin\Debug\ET.dll
+E:\ET\RDBMS\ET\bin\Debug\ET.pdb
+E:\ET\RDBMS\ET\obj\Debug\ET.sqlprojAssemblyReference.cache
+E:\ET\RDBMS\ET\obj\Debug\ET.dll
+E:\ET\RDBMS\ET\obj\Debug\ET.pdb
+E:\Source\Repos\gieldakorepetycji\ET\RDBMS\ET\bin\Debug\ET.dacpac
+E:\Source\Repos\gieldakorepetycji\ET\RDBMS\ET\bin\Debug\ET.dll
+E:\Source\Repos\gieldakorepetycji\ET\RDBMS\ET\bin\Debug\ET.pdb
+E:\Source\Repos\gieldakorepetycji\ET\RDBMS\ET\obj\Debug\ET.dll
+E:\Source\Repos\gieldakorepetycji\ET\RDBMS\ET\obj\Debug\ET.pdb

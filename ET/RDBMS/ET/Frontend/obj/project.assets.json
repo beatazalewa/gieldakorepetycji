@@ -12976,11 +12976,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Beata\\Desktop\\ET - Actual\\RDBMS\\ET\\Frontend\\Frontend.csproj",
+      "projectUniqueName": "E:\\Source\\Repos\\gieldakorepetycji\\ET\\RDBMS\\ET\\Frontend\\Frontend.csproj",
       "projectName": "Frontend",
-      "projectPath": "C:\\Users\\Beata\\Desktop\\ET - Actual\\RDBMS\\ET\\Frontend\\Frontend.csproj",
+      "projectPath": "E:\\Source\\Repos\\gieldakorepetycji\\ET\\RDBMS\\ET\\Frontend\\Frontend.csproj",
       "packagesPath": "C:\\Users\\Beata\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Beata\\Desktop\\ET - Actual\\RDBMS\\ET\\Frontend\\obj\\",
+      "outputPath": "E:\\Source\\Repos\\gieldakorepetycji\\ET\\RDBMS\\ET\\Frontend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12999,8 +12999,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Beata\\Desktop\\ET - Actual\\RDBMS\\ET\\ETBackend\\ETBackend.csproj": {
-              "projectPath": "C:\\Users\\Beata\\Desktop\\ET - Actual\\RDBMS\\ET\\ETBackend\\ETBackend.csproj"
+            "E:\\Source\\Repos\\gieldakorepetycji\\ET\\RDBMS\\ET\\ETBackend\\ETBackend.csproj": {
+              "projectPath": "E:\\Source\\Repos\\gieldakorepetycji\\ET\\RDBMS\\ET\\ETBackend\\ETBackend.csproj"
             }
           }
         }

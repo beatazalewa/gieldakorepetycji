@@ -3588,11 +3588,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Beata\\Desktop\\ET - Actual\\RDBMS\\ET\\ETBackend\\ETBackend.csproj",
+      "projectUniqueName": "E:\\Source\\Repos\\gieldakorepetycji\\ET\\RDBMS\\ET\\ETBackend\\ETBackend.csproj",
       "projectName": "ETBackend",
-      "projectPath": "C:\\Users\\Beata\\Desktop\\ET - Actual\\RDBMS\\ET\\ETBackend\\ETBackend.csproj",
+      "projectPath": "E:\\Source\\Repos\\gieldakorepetycji\\ET\\RDBMS\\ET\\ETBackend\\ETBackend.csproj",
       "packagesPath": "C:\\Users\\Beata\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Beata\\Desktop\\ET - Actual\\RDBMS\\ET\\ETBackend\\obj\\",
+      "outputPath": "E:\\Source\\Repos\\gieldakorepetycji\\ET\\RDBMS\\ET\\ETBackend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
