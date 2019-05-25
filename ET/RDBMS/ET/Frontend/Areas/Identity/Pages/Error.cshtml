@@ -1,0 +1,23 @@
+﻿@page
+@model ErrorModel
+@{
+    ViewData["Title"] = "Błąd";
+}
+
+<h1 class="text-danger">Błąd.</h1>
+<h2 class="text-danger">Podczas przetwarzania żądania wystąpił błąd.</h2>
+
+@if (Model.ShowRequestId)
+{
+    <p>
+        <strong>Request ID:</strong> <code>@Model.RequestId</code>
+    </p>
+}
+
+<h3>Tryb deweloperski</h3>
+<p>
+    Zamień na <strong>deweloperskie</strong> środowisko, aby wyświetlić bardziej szczegółowe informacje na temat błędu, który wystąpił.
+</p>
+<p>
+    <strong>Środowisko deweloperskie nie powinno być włączone w wdrożonych aplikacjach</strong>, ponieważ może to spowodować wyświetlanie poufnych informacji z wyjątków użytkownikom końcowym. W przypadku lokalnego debugowania środowisko deweloperskie można włączyć, ustawiając zmienną środowiskową <strong>ASPNETCORE_ENVIRONMENT</strong> na <strong>Development</strong>, a potem zrestartowanie aplikacji.
+</p>

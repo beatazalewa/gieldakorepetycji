@@ -1,0 +1,28 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[tAdverts] (Table)
+       [dbo].[tAdvertsCategories] (Table)
+       [dbo].[tCategories] (Table)
+       [dbo].[tLocations] (Table)
+       [dbo].[tUsers] (Table)
+       [dbo].[FK_tAdverts_Users] (Foreign Key)
+       [dbo].[FK_tAdverts_Locations] (Foreign Key)
+       [dbo].[FK_tAtdvertsCategories_tAdverts] (Foreign Key)
+       [dbo].[FK_tAdvertsCategories_tCategories] (Foreign Key)
+       [dbo].[tAdverts].[MS_Description] (Extended Property)
+       [dbo].[tAdvertsCategories].[MS_Description] (Extended Property)
+       [dbo].[tCategories].[MS_Description] (Extended Property)
+       [dbo].[tLocations].[MS_Description] (Extended Property)
+       [dbo].[tUsers].[MS_Description] (Extended Property)
+
+** Supporting actions
