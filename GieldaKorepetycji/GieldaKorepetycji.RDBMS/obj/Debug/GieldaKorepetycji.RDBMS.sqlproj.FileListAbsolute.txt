@@ -5,12 +5,11 @@ E:\Source\Repos\gieldakorepetycji\GieldaKorepetycji.RDBMS\obj\Debug\GieldaKorepe
 E:\Source\Repos\gieldakorepetycji\GieldaKorepetycji.RDBMS\obj\Debug\GieldaKorepetycji.RDBMS.dll
 E:\Source\Repos\gieldakorepetycji\GieldaKorepetycji.RDBMS\obj\Debug\GieldaKorepetycji.RDBMS.pdb
 E:\Source\Repos\gieldakorepetycji\GieldaKorepetycji\GieldaKorepetycji.RDBMS\bin\Debug\GieldaKorepetycji.RDBMS.dacpac
-E:\Source\Repos\gieldakorepetycji\GieldaKorepetycji\GieldaKorepetycji.RDBMS\bin\Debug\GieldaKorepetycji.RDBMS.dll
-E:\Source\Repos\gieldakorepetycji\GieldaKorepetycji\GieldaKorepetycji.RDBMS\bin\Debug\GieldaKorepetycji.RDBMS.pdb
-E:\Source\Repos\gieldakorepetycji\GieldaKorepetycji\GieldaKorepetycji.RDBMS\obj\Debug\GieldaKorepetycji.RDBMS.sqlprojAssemblyReference.cache
 E:\Source\Repos\gieldakorepetycji\GieldaKorepetycji\GieldaKorepetycji.RDBMS\obj\Debug\Model.xml
 E:\Source\Repos\gieldakorepetycji\GieldaKorepetycji\GieldaKorepetycji.RDBMS\obj\Debug\refactor.xml
 E:\Source\Repos\gieldakorepetycji\GieldaKorepetycji\GieldaKorepetycji.RDBMS\obj\Debug\postdeploy.sql
 E:\Source\Repos\gieldakorepetycji\GieldaKorepetycji\GieldaKorepetycji.RDBMS\obj\Debug\predeploy.sql
-E:\Source\Repos\gieldakorepetycji\GieldaKorepetycji\GieldaKorepetycji.RDBMS\obj\Debug\GieldaKorepetycji.RDBMS.dll
-E:\Source\Repos\gieldakorepetycji\GieldaKorepetycji\GieldaKorepetycji.RDBMS\obj\Debug\GieldaKorepetycji.RDBMS.pdb
+E:\Source\Repos\gieldakorepetycji\GieldaKorepetycji\GieldaKorepetycji.RDBMS\bin\Debug\ET.dll
+E:\Source\Repos\gieldakorepetycji\GieldaKorepetycji\GieldaKorepetycji.RDBMS\bin\Debug\ET.pdb
+E:\Source\Repos\gieldakorepetycji\GieldaKorepetycji\GieldaKorepetycji.RDBMS\obj\Debug\ET.dll
+E:\Source\Repos\gieldakorepetycji\GieldaKorepetycji\GieldaKorepetycji.RDBMS\obj\Debug\ET.pdb

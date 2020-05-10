@@ -1,0 +1,7 @@
+E:\Source\Repos\gieldakorepetycji\GieldaKorepetycji\GieldaKorepetycji.Application\obj\Debug\netcoreapp3.1\GieldaKorepetycji.Application.csprojAssemblyReference.cache
+E:\Source\Repos\gieldakorepetycji\GieldaKorepetycji\GieldaKorepetycji.Application\obj\Debug\netcoreapp3.1\GieldaKorepetycji.Application.AssemblyInfoInputs.cache
+E:\Source\Repos\gieldakorepetycji\GieldaKorepetycji\GieldaKorepetycji.Application\obj\Debug\netcoreapp3.1\GieldaKorepetycji.Application.AssemblyInfo.cs
+E:\Source\Repos\gieldakorepetycji\GieldaKorepetycji\GieldaKorepetycji.Application\obj\Debug\netcoreapp3.1\GieldaKorepetycji.Application.TagHelpers.input.cache
+E:\Source\Repos\gieldakorepetycji\GieldaKorepetycji\GieldaKorepetycji.Application\obj\Debug\netcoreapp3.1\GieldaKorepetycji.Application.TagHelpers.output.cache
+E:\Source\Repos\gieldakorepetycji\GieldaKorepetycji\GieldaKorepetycji.Application\obj\Debug\netcoreapp3.1\GieldaKorepetycji.Application.MvcApplicationPartsAssemblyInfo.cache
+E:\Source\Repos\gieldakorepetycji\GieldaKorepetycji\GieldaKorepetycji.Application\obj\Debug\netcoreapp3.1\GieldaKorepetycji.Application.MvcApplicationPartsAssemblyInfo.cs
